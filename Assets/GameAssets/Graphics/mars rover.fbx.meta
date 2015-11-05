@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 1243c82a29f70490c915c9742efbd320
+timeCreated: 1446726034
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arm
+    100002: Body
+    100004: body decoration 1
+    100006: body decoration 2
+    100008: body decoration 3
+    100010: body decoration 4
+    100012: body decoration 5
+    100014: body decoration 6
+    100016: body decoration 7
+    100018: Cube
+    100020: Cube.001
+    100022: Cylinder
+    100024: Cylinder.001
+    100026: Cylinder.002
+    100028: Cylinder.003
+    100030: Cylinder.004
+    100032: Cylinder.005
+    100034: Cylinder.006
+    100036: Cylinder.007
+    100038: eye
+    100040: Gear.000
+    100042: Gear.001
+    100044: Gear.002
+    100046: Gear.003
+    100048: Gear.004
+    100050: Gear.005
+    100052: head
+    100054: //RootNode
+    100056: neck
+    100058: radar arm
+    100060: tire
+    100062: tire.001
+    100064: tire.002
+    100066: tire.003
+    100068: tire.004
+    100070: tire.005
+    400000: arm
+    400002: Body
+    400004: body decoration 1
+    400006: body decoration 2
+    400008: body decoration 3
+    400010: body decoration 4
+    400012: body decoration 5
+    400014: body decoration 6
+    400016: body decoration 7
+    400018: Cube
+    400020: Cube.001
+    400022: Cylinder
+    400024: Cylinder.001
+    400026: Cylinder.002
+    400028: Cylinder.003
+    400030: Cylinder.004
+    400032: Cylinder.005
+    400034: Cylinder.006
+    400036: Cylinder.007
+    400038: eye
+    400040: Gear.000
+    400042: Gear.001
+    400044: Gear.002
+    400046: Gear.003
+    400048: Gear.004
+    400050: Gear.005
+    400052: head
+    400054: //RootNode
+    400056: neck
+    400058: radar arm
+    400060: tire
+    400062: tire.001
+    400064: tire.002
+    400066: tire.003
+    400068: tire.004
+    400070: tire.005
+    2300000: arm
+    2300002: Body
+    2300004: body decoration 1
+    2300006: body decoration 2
+    2300008: body decoration 3
+    2300010: body decoration 4
+    2300012: body decoration 5
+    2300014: body decoration 6
+    2300016: body decoration 7
+    2300018: Cube
+    2300020: Cube.001
+    2300022: Cylinder
+    2300024: Cylinder.001
+    2300026: Cylinder.002
+    2300028: Cylinder.003
+    2300030: Cylinder.004
+    2300032: Cylinder.005
+    2300034: Cylinder.006
+    2300036: Cylinder.007
+    2300038: eye
+    2300040: Gear.000
+    2300042: Gear.001
+    2300044: Gear.002
+    2300046: Gear.003
+    2300048: Gear.004
+    2300050: Gear.005
+    2300052: head
+    2300054: neck
+    2300056: radar arm
+    2300058: tire
+    2300060: tire.001
+    2300062: tire.002
+    2300064: tire.003
+    2300066: tire.004
+    2300068: tire.005
+    3300000: arm
+    3300002: Body
+    3300004: body decoration 1
+    3300006: body decoration 2
+    3300008: body decoration 3
+    3300010: body decoration 4
+    3300012: body decoration 5
+    3300014: body decoration 6
+    3300016: body decoration 7
+    3300018: Cube
+    3300020: Cube.001
+    3300022: Cylinder
+    3300024: Cylinder.001
+    3300026: Cylinder.002
+    3300028: Cylinder.003
+    3300030: Cylinder.004
+    3300032: Cylinder.005
+    3300034: Cylinder.006
+    3300036: Cylinder.007
+    3300038: eye
+    3300040: Gear.000
+    3300042: Gear.001
+    3300044: Gear.002
+    3300046: Gear.003
+    3300048: Gear.004
+    3300050: Gear.005
+    3300052: head
+    3300054: neck
+    3300056: radar arm
+    3300058: tire
+    3300060: tire.001
+    3300062: tire.002
+    3300064: tire.003
+    3300066: tire.004
+    3300068: tire.005
+    4300000: radar arm
+    4300002: arm
+    4300004: body decoration 7
+    4300006: body decoration 6
+    4300008: body decoration 5
+    4300010: body decoration 4
+    4300012: body decoration 3
+    4300014: body decoration 2
+    4300016: body decoration 1
+    4300018: eye
+    4300020: head
+    4300022: neck
+    4300024: Cylinder.007
+    4300026: Cylinder.006
+    4300028: Cube.001
+    4300030: Cylinder.005
+    4300032: Cylinder.004
+    4300034: tire.005
+    4300036: tire.004
+    4300038: tire.003
+    4300040: Gear.005
+    4300042: Gear.004
+    4300044: Gear.003
+    4300046: Gear.002
+    4300048: Gear.000
+    4300050: Gear.001
+    4300052: tire.002
+    4300054: tire.001
+    4300056: tire
+    4300058: Cylinder.003
+    4300060: Cylinder.002
+    4300062: Cube
+    4300064: Cylinder.001
+    4300066: Cylinder
+    4300068: Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

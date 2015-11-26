@@ -54,6 +54,7 @@
      <Compile Include="Assets\Assets\Standard Assets\Environment\Water\Water\Scripts\Water.cs" />
      <Compile Include="Assets\Assets\Standard Assets\Environment\Water\Water\Scripts\WaterBase.cs" />
      <Compile Include="Assets\Assets\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
+     <Compile Include="Assets\Sailboat.cs" />
      <Compile Include="Assets\Scripts\Click.cs" />
      <Compile Include="Assets\Scripts\DontDestroy.cs" />
      <Compile Include="Assets\Scripts\MartianController.cs" />

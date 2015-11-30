@@ -67,6 +67,7 @@
      <Compile Include="Assets\Scripts\Sailboat.cs" />
      <Compile Include="Assets\Scripts\Square.cs" />
      <Compile Include="Assets\Scripts\TurnGameManager.cs" />
+     <Compile Include="Assets\Scripts\Visibile.cs" />
      <Compile Include="Assets\Scripts\getposition.cs" />
      <Compile Include="Assets\Scripts\obstaclemovement.cs" />
      <Compile Include="Assets\Scripts\rock2obstaclemovement.cs" />

@@ -7,6 +7,12 @@ TagManager:
   - obstacle
   - plane
   - Rover
+  - rockobstacle
+  - outboard_trigger
+  - exit
+  - red_heart
+  - trap
+  - obstacleController
   layers:
   - Default
   - TransparentFX

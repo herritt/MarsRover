@@ -1,0 +1,58 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 650M  (ID=0xfd1)
+    Vendor:   NVIDIA
+    VRAM:     1985 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\CSCI 4168\project\MarsRover-master\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\CSCI 4168\project\MarsRover-master\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\CSCI 4168\project\MarsRover-master\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\CSCI 4168\project\MarsRover-master\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\CSCI 4168\project\MarsRover-master\game_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\CSCI 4168\project\MarsRover-master\game_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\CSCI 4168\project\MarsRover-master\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\CSCI 4168\project\MarsRover-master\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\CSCI 4168\project\MarsRover-master\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\CSCI 4168\project\MarsRover-master\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\CSCI 4168\project\MarsRover-master\game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.131 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\CSCI 4168\project\MarsRover-master\game_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 440 -> priority: 1 
+  Thread -> id: 1c18 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.390001 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 798.
+Total: 0.164211 ms (FindLiveObjects: 0.025230 ms CreateObjectMapping: 0.015394 ms MarkObjects: 0.112895 ms  DeleteObjects: 0.010263 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.987448 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1265.
+Total: 0.316021 ms (FindLiveObjects: 0.092368 ms CreateObjectMapping: 0.021381 ms MarkObjects: 0.192007 ms  DeleteObjects: 0.009407 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.720562 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1273.
+Total: 0.327139 ms (FindLiveObjects: 0.094507 ms CreateObjectMapping: 0.023519 ms MarkObjects: 0.192435 ms  DeleteObjects: 0.016250 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.554020 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1289.
+Total: 0.636746 ms (FindLiveObjects: 0.095789 ms CreateObjectMapping: 0.060723 ms MarkObjects: 0.463127 ms  DeleteObjects: 0.016677 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.704312 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1280.
+Total: 0.339541 ms (FindLiveObjects: 0.068421 ms CreateObjectMapping: 0.023092 ms MarkObjects: 0.211251 ms  DeleteObjects: 0.036776 ms)
+

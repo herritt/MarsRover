@@ -37,9 +37,10 @@ public class Sailboat : MonoBehaviour {
 			//change direcction
 			forward = !forward;
 
-			//flip the sailboat
-			transform.RotateAround(Vector3.up, Mathf.PI);
-		}
+            //flip the sailboat
+            //transform.RotateAround(Vector3.up, Mathf.PI);
+            transform.Rotate(Vector3.up, Mathf.PI);
+        }
 
 		//check which direction we're moving
 		if (forward) {

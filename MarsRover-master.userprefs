@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Tutorial.cs">
+    <Files>
+      <File FileName="Assets\Scripts\RoverAIDay.cs" Line="282" Column="23" />
+      <File FileName="Assets\Scripts\Tutorial.cs" Line="32" Column="5" />
+      <File FileName="Assets\Scripts\TurnGameManager.cs" Line="56" Column="40" />
+      <File FileName="Assets\Scripts\obstaclemovement.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

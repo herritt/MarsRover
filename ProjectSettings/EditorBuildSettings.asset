@@ -5,7 +5,73 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/ProtoLevel.unity
   - enabled: 1
+    path: Assets/_Scenes/TitleScreen.unity
+  - enabled: 1
+    path: Assets/_Scenes/TutorialLevel.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level1.unity
+  - enabled: 0
+    path: Assets/_Scenes/Level1.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level2.unity
+  - enabled: 0
+    path: Assets/_Scenes/TitleScreen.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level3.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level4.unity
+  - enabled: 0
+    path: Assets/_Scenes/Level4.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level5.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level6.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level7.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level8.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level9.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level10.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level11.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level12.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level13.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level14.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level15.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level16.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level17.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level18.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level19.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level20.unity
+  - enabled: 0
+    path: Assets/_Scenes/Level21.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level21.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level22.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level23.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level24.unity
+  - enabled: 0
+    path: Assets/_Scenes/Level25.unity
+  - enabled: 0
+    path: Assets/_Scenes/Level20.unity
+  - enabled: 1
+    path: Assets/_Scenes/Level25.unity
+  - enabled: 0
     path: Assets/_Scenes/TitleScreen.unity
